@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lefilms</string>
+    <string name="movies_title">Movie Title</string>
+    <string name="movies_date">release_date</string>
+    <string name="movies_description">QwertyuiopQwertyuiopQwertyuiopQwertyuiopQwertyuiopQwertyuiopQwertyuiopQwertyuiopQwertyuiopQwertyuiop</string>
+    <string name="category">Category</string>
+    <string name="favorite_title">Favorite List</string>
+</resources>
